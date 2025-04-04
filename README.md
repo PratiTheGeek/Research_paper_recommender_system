@@ -1,1 +1,2 @@
-# Research_paper_recommender_system
+The "Research Paper Recommender and Subject Area Predictor" project seeks to enhance the efficiency and accuracy of the literature review process for students.
+By leveraging advanced machine learning and natural language processing (NLP) techniques, this system takes as input a research paper's title and abstract, then identifies and recommends the top five most relevant research papers from a curated academic database.
